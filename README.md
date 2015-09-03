@@ -1,4 +1,6 @@
 # Quizz
+Antes de você ler, saiba que é um código muito, muito, muito feio.
+Before you read it, you better know that it is a really, really, really, really ugly code.
 ## Português - BR
 Sistema de perguntas e resposta simples, feito em 5 horas, para um trabalho da faculdade. Este projeto não foi feito para ser publicado oficialmente.
 
