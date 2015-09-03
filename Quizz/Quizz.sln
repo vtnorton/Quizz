@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quizz", "Quizz.csproj", "{90E53840-8C41-43FF-9F8C-B29D883F86E6}"
 EndProject
-Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "App1", "..\App1\App1.jsproj", "{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,30 +37,6 @@ Global
 		{90E53840-8C41-43FF-9F8C-B29D883F86E6}.Release|x86.ActiveCfg = Release|x86
 		{90E53840-8C41-43FF-9F8C-B29D883F86E6}.Release|x86.Build.0 = Release|x86
 		{90E53840-8C41-43FF-9F8C-B29D883F86E6}.Release|x86.Deploy.0 = Release|x86
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Debug|ARM.ActiveCfg = Debug|ARM
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Debug|ARM.Build.0 = Debug|ARM
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Debug|ARM.Deploy.0 = Debug|ARM
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Debug|x64.ActiveCfg = Debug|x64
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Debug|x64.Build.0 = Debug|x64
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Debug|x64.Deploy.0 = Debug|x64
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Debug|x86.ActiveCfg = Debug|x86
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Debug|x86.Build.0 = Debug|x86
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Debug|x86.Deploy.0 = Debug|x86
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Release|ARM.ActiveCfg = Release|ARM
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Release|ARM.Build.0 = Release|ARM
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Release|ARM.Deploy.0 = Release|ARM
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Release|x64.ActiveCfg = Release|x64
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Release|x64.Build.0 = Release|x64
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Release|x64.Deploy.0 = Release|x64
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Release|x86.ActiveCfg = Release|x86
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Release|x86.Build.0 = Release|x86
-		{8840DEF9-77CD-43EA-8AC8-C894D13BABC0}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
