@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "G:\windowsuniversalapps.multivix.quizz\Quizz\obj\ARM\Release\ilc\intermediate\ILTransformed\Quizz.metadata"
+/reflectionMetadataAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "G:\windowsuniversalapps.multivix.quizz\Quizz\obj\ARM\Release\ilc\intermediate\ILTransformed\Quizz.csv"
+/sharedGenericsMode StandardHeuristics
+/in "G:\windowsuniversalapps.multivix.quizz\Quizz\obj\ARM\Release\ilc\intermediate\ILTransformed\Quizz.ilexe"
+/out "G:\windowsuniversalapps.multivix.quizz\Quizz\obj\ARM\Release\ilc\intermediate\MDIL\Quizz.mdilexe"

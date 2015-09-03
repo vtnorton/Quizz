@@ -1,0 +1,8 @@
+/out:"G:\windowsuniversalapps.multivix.quizz\Quizz\obj\x64\Release\ilc\intermediate\SgGenerated\\"
+/int:"G:\windowsuniversalapps.multivix.quizz\Quizz\obj\x64\Release\ilc\intermediate\\"
+/ref:"G:\windowsuniversalapps.multivix.quizz\Quizz\obj\x64\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"G:\windowsuniversalapps.multivix.quizz\Quizz\obj\x64\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\x64\ilc\lib\Private\\"
+/ref:"G:\windowsuniversalapps.multivix.quizz\Quizz\obj\x64\Release\ilc\in\\"
+/ref:"G:\windowsuniversalapps.multivix.quizz\Quizz\obj\x64\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib
